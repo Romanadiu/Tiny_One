@@ -1,0 +1,149 @@
+/*font-family: 'PT Sans', sans-serif;*/
+@font-face{
+	src:url(..///fonts/helvetica.otf);
+	font-family: helvetica;
+}
+body{
+	font-family: 'PT Sans', sans-serif;
+}
+header{
+	background-color: #FFD000;
+	padding: 15px;
+}
+.menu ul li a{
+	font-family: helvetica;
+	font-weight: 700;
+	color: #010101;
+	font-size: 22px;
+	padding: 0 40px !important;
+}
+.menu ul li:last-child a{
+	padding-right: 0 !important;
+}
+/*slider start*/
+.slider{
+	background-color: #FFD000;
+	padding-bottom: 85px;
+}
+.custom{
+   bottom: -59px;
+
+}
+.inspire{
+	margin-top: 50px;
+
+}
+.inspire h1{
+
+	font-size: 32px;
+	margin-bottom: 15px;
+}
+.inspire h3{
+	font-weight: 400;
+	font-size: 20px;
+	margin-bottom: 20px;
+}
+.inspire p{
+	font-size: 16px;
+	margin-bottom: 30px;
+}
+.inspire ul li i{
+	font-size: 40px;
+	margin-right: 20px;
+}
+.tab{
+
+}
+.tab img{
+
+    margin-top: 50px;
+
+}
+
+/*slider end*/
+/*feature start*/
+.features{}
+.features h1{
+	font-weight: 700;
+}
+.features p{
+	font-size: 20px;
+	color: #313841;
+}
+.title{
+	padding-top: 100px;
+}
+/*single start*/
+.icon{
+	font-size: 50px;
+}
+.content{}
+.content h1{
+	font-size: 22px;
+	color: #010101;
+	    color: white;
+}
+.content p{
+	font-size: 16px;
+	color: #898989;
+}
+.m_l{
+	padding-left: 0;
+}
+.m_t_30{
+	margin-top: 30px;
+}
+
+/*single start*/
+
+/*feature end*/
+/*contact start*/
+.contact{
+	background-color: #010101;
+}
+.title{}
+.yellow{
+	color: #fcdb00;
+}
+.white{
+	color: white;
+}
+/*contact end*/
+/*contact_form start*/
+.contact_form{
+}
+.contact_form input{}
+.contact_form button{
+	background-color: yellow;
+}
+.btn-custom{
+}
+/*icone start*/
+.icone{
+	background-color: #010101;
+	padding-top: 100px;
+}
+.cust_icon{
+	    font-size: 36px;
+
+}
+.icon_border{
+	margin: 5px 5px;
+    background-color: yellow;
+    padding: 5px 11px;
+}
+/*icone end*/
+/*contact_form end*/
+/*footer start*/
+footer{
+
+	background-color: #010101;
+	padding-top: 100px;
+}
+.ul p{
+	color: white;
+}
+.ul a{
+	color: white;
+}
+/*footer end*/
